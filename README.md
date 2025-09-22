@@ -143,11 +143,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code in your research, please cite our paper (citation details to be added) and the original LLM2CLIP work:
 
 ```bibtex
-@article{llm2clip2024,
-  title={Exploring the Capabilities of LLM Encoders for Image–Text
- Retrieval in Chest X-rays},
-  author={Hanbin Ko, ...},
-  journal={arXiv preprint},
+@article{ko2025exploring,
+  title={Exploring the Capabilities of LLM Encoders for Image--Text Retrieval in Chest X-rays},
+  author={Ko, Hanbin and Cho, Gihun and Baek, Inhyeok and Kim, Donguk and Koo, Joonbeom and Kim, Changi and Lee, Dongheon and Park, Chang Min},
+  journal={arXiv preprint arXiv:2509.15234},
   year={2025}
 }
 ```
